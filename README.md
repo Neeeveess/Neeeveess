@@ -1,4 +1,4 @@
-Opa, sou o João Vitor, e atualmente estou estudando para ser um futuro desenvolvedor!
+Opa! Me chamo João Vitor, e atualmente estou estudando para ser um futuro desenvolvedor!
 
 ##
 
