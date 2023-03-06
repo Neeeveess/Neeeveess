@@ -1,4 +1,6 @@
-## Opa, sou o João Vitor, e atualmente estou estudando para ser um futuro desenvolvedor!
+Opa, sou o João Vitor, e atualmente estou estudando para ser um futuro desenvolvedor!
+
+##
 
 <div style="display:inline-block">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Neeeveess&show_icons=true&count_private=true&theme=transparent" />
