@@ -2,9 +2,9 @@ Opa! Me chamo João Vitor, e atualmente estou estudando para ser um futuro desen
 
 ##
 
-<div style="display:inline-block">
+<div style="display:flex">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Neeeveess&show_icons=true&count_private=true&theme=transparent" />
-    <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neeeveess&theme=transparent" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neeeveess&theme=transparent" />
 </div>
 
 ##
