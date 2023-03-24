@@ -4,7 +4,7 @@ Opa! Me chamo João Vitor, e atualmente estou estudando para ser um futuro desen
 
 <div style="display:flex" align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Neeeveess&show_icons=true&count_private=true&theme=transparent" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neeeveess&theme=transparent" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neeeveess&theme=transparent&layout=compact&hide_progress=true" />
 </div>
 
 ##
