@@ -1,4 +1,4 @@
-Opa! Me chamo João Vitor, e atualmente estou estudando para ser um futuro desenvolvedor!
+Opa! Me chamo João Vitor, tenho 20 anos e atualmente estou trabalhando em uma agência de publicidade como desenvolvedor web.
 
 ##
 
