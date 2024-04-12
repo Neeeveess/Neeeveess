@@ -1,4 +1,8 @@
-Opa! Me chamo João Vitor, tenho 21 anos e atualmente estou trabalhando em uma agência de publicidade como desenvolvedor web.
+Sou um Desenvolvedor Full-stack apaixonado e proativo, dedicado ao aprendizado contínuo e ao aprimoramento das minhas habilidades.
+
+Atualmente, atuo como Desenvolvedor de temas e plugins Wordpress, acumulando mais de 1 ano de experiência na área.
+
+Minhas stacks principais são: React.js para desenvolvimento Frontend e Java com Spring boot para desenvolvimento Back-end, fora outra linguagens que tenho proficiência. Possuo uma sólida base em Lógica de Programação e Programação Orientada a Objetos. Além do desenvolvimento de software, possuo conhecimentos em Arquitetura de Software, Bancos de Dados Relacionais e NãoRelacionais, versionamento de código com Git e experiência prática com Docker.
 
 ##
 
