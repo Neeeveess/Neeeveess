@@ -1,17 +1,13 @@
-Olá, me chamo João Vitor Neves, estou finalizando faculdade de Análise e Desenvolvimento de Sistemas e atuo como um Desenvolvedor Full-stack.
+### Olá, me chamo João Vitor Neves
+
+Tenho 21 anos, atualmente estou finalizando faculdade de Análise e Desenvolvimento de Sistemas e atuo como um Desenvolvedor Full-stack.
 
 Minhas stacks principais são: React.js para desenvolvimento Front-end e Java com Spring boot para desenvolvimento Back-end, fora outra linguagens que tenho proficiência.
 
 ##
 
-<div style="display:flex" align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Neeeveess&show_icons=true&count_private=true&theme=transparent" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neeeveess&theme=transparent&layout=compact&hide_progress=true" />
-</div>
-
-##
-
-<div align="center"> 
+### Tecnologias
+<div> 
     <img align="justify" alt="HTML" title="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="justify" alt="CSS" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="justify" alt="JavaScript" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -26,7 +22,7 @@ Minhas stacks principais são: React.js para desenvolvimento Front-end e Java co
 </div>
 
 ##
-
-<div align="center">
+### Contato
+<div>
     <a href="https://www.linkedin.com/in/jvneves/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
