@@ -2,7 +2,7 @@
 
 Tenho 21 anos, atualmente estou finalizando faculdade de Análise e Desenvolvimento de Sistemas e atuo como um Desenvolvedor Full-stack.
 
-Minhas stacks principais são: React.js para desenvolvimento Front-end e Java com Spring boot para desenvolvimento Back-end, fora outra linguagens que tenho proficiência.
+Minhas stacks principais são: React.js para desenvolvimento Front-end e Java/Kotlin com Spring boot para desenvolvimento Back-end, fora outra linguagens que tenho proficiência.
 
 ##
 
@@ -13,6 +13,7 @@ Minhas stacks principais são: React.js para desenvolvimento Front-end e Java co
     <img align="justify" alt="JavaScript" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="justify" alt="TypeScript" title="TypeScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">    
     <img align="justify" alt="JAVA" title="JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+    <img align="justify" alt="Kotlin" title="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg">
     <img align="justify" alt="Spring" title="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg">
     <img align="justify" alt="Php" title="Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
     <img align="justify" alt="React" title="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
