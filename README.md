@@ -1,8 +1,8 @@
 ### Olá, me chamo João Vitor Neves
 
-Tenho 21 anos, atualmente estou finalizando faculdade de Análise e Desenvolvimento de Sistemas e atuo como um Desenvolvedor Full-stack.
+Tenho 21 anos, atualmente formado em Análise e Desenvolvimento de Sistemas e atuo como um Desenvolvedor Back-End.
 
-Minhas stacks principais são: React.js para desenvolvimento Front-end e Java/Kotlin com Spring boot para desenvolvimento Back-end, fora outra linguagens que tenho proficiência.
+Minhas stacks principais são: Java/Kotlin com Spring boot para desenvolvimento Back-end, fora outra linguagens que tenho proficiência.
 
 ##
 
