@@ -1,6 +1,6 @@
 ### Olá, me chamo João Vitor Neves
 
-Tenho 22 anos, atualmente formado em Análise e Desenvolvimento de Sistemas e atuo como um Desenvolvedor Back-End.
+Tenho 22 anos, atualmente formado em Análise e Desenvolvimento de Sistemas e atuo como um Desenvolvedor Back-End no ramo financeiro.
 
 Minhas stacks principais são: Java/Kotlin com Spring boot para desenvolvimento Back-end, fora outra linguagens que tenho proficiência.
 
